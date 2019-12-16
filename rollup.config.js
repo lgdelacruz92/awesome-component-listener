@@ -12,7 +12,7 @@ export default [
   {
     input: "src/components/componentlistener/index.js",
     output: {
-      name: "awesome-component-listener",
+      name: "aw-component-listener",
       file: "dist/index.js",
       format: "cjs"
     },
